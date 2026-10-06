@@ -2,7 +2,7 @@
 
 ## Project
 
-This project demonstrates Git and GitHub version control workflows.
+This project demonstrates Git and GitHub best practices.
 
 ## Git Workflow
 

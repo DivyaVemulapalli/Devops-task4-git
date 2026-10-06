@@ -2,7 +2,9 @@
 
 ## Project
 
+
 This project demonstrates Git and GitHub best practices.
+
 
 ## Git Workflow
 
